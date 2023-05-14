@@ -16,7 +16,7 @@
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
 
 :root {
-  --background: url('https://wallpapercave.com/wp/RhUKcaH.jpg');
+  --background: url('https://i.imgur.com/yxcgHbS.jpg');
   --backgroundsize: cover;
   --backgroundposition: center;
   --backgroundblur: 0px;
@@ -28,7 +28,7 @@
   --accentcolor: 78,180,190;
   --backdrop: rgb(0,0,0,0.85);
   --textshadow: rgb(66,34,34,0);
-  --transparencyalpha: 0.32;
+  --transparencyalpha: 0.3;
   --messagetransparency: 0.58;
   --guildchanneltransparency: 0.58;
   --chatinputtransparency: 0;
